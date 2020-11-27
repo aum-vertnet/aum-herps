@@ -1,0 +1,161 @@
+Report for Institution Code AUM, Resource aum_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 2441
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Australia ; Times: 1
+	Country: United States ; Times: 55
+	Country: Sweden ; Times: 20
+	Country: Germany ; Times: 30
+	Country: Belgium ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 31
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 7
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 4
+	Date: 2019-12-30 ; Times: 4
+	Date: 2019-12-31 ; Times: 5
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 5
+	Date: 2019-12-07 ; Times: 8
+	Date: 2019-12-06 ; Times: 3
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-03 ; Times: 34
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bob Jones" ; Times: 1
+	Query: "lithobates heckscheri AUM" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Incilius" ; Times: 2
+	Query: "32093" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trachemys scripta mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 9
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:alvarius genus:Incilius" ; Times: 2
+	Query: "genus:siren county:&#34;okaloosa&#34;" ; Times: 1
+	Query: "Caiman crocodilus mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 3
+	Query: "siren palm beach florida" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:monticola county:&#34;Monroe&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "&#34;hemidactylus turcicus&#34; and &#34;brooks&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis county:&#34;monterey&#34;" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Tangipahoa&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Plethodontidae mcintosh georgia" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "genus:Desmognathus county:&#34;Monroe&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Tishomingo&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "specificepithet:monticola genus:Desmognathus stateprovince:&#34;alabama&#34;" ; Times: 14
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "issaqueena county:&#34;Pickens&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:osteopilus county:&#34;alachua&#34;" ; Times: 1
+	Query: "&#34;hemidactylus turcicus&#34; and &#34;live oak&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Hickman&#34; stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "necturus beyeri" ; Times: 1
+	Query: "Apalone spinifera mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "lithobates heckscheri" ; Times: 2
+	Query: "specificepithet:reticulata genus:siren" ; Times: 2
+	Query: "18569" ; Times: 1
+	Query: "specificepithet:alabamensis genus:Pseudemys stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:debilis genus:Anaxyrus" ; Times: 2
+	Query: "Ophisaurus mimicus" ; Times: 2
+	Query: "genus:Lampropeltis getula stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "order:Caudata class:Amphibia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Ambystoma tigrinum mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Forrest&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Salvadora hexalepis mojavensis" ; Times: 1
+	Query: "Pseudacris brimleyi south carolina" ; Times: 1
+	Query: "specificepithet:cognatus genus:Anaxyrus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Hickman&#34; stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Monroe&#34; stateprovince:&#34;Alabama&#34; (Haines)" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:quercicus genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "24368" ; Times: 1
+	Query: "23783" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "specificepithet:speciosus genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:compactilis genus:Anaxyrus" ; Times: 2
+	Query: "37484" ; Times: 2
+	Query: "Chrysemys picta mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Lithobates catesbeianus mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 7
+	Query: "genus:siren stateprovince:&#34;alabama&#34;" ; Times: 5
+	Query: "Hemidactylus turcicus mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "reptilia Georgia appling" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 596 download events in this period)
+Total number of records downloaded: 2263
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Belgium ; Times: 9
+	Country: South Korea ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 10
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-05 ; Times: 11
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:monticola genus:Desmognathus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "specificepithet:areolatus genus:Lithobates class:Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+
+End of report.
