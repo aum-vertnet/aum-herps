@@ -1,0 +1,178 @@
+Report for Institution Code AUM, Resource aum_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 1500
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 78
+	Country: Peru ; Times: 2
+	Country: Taiwan ; Times: 4
+	Country: Hong Kong ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 7
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 27
+	Date: 2020-09-07 ; Times: 3
+	Date: 2020-09-06 ; Times: 5
+	Date: 2020-09-05 ; Times: 3
+	Date: 2020-09-04 ; Times: 5
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-23 ; Times: 3
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 4
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 4
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "16649" ; Times: 1
+	Query: "order:Testudines county:&#34;Marengo&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "order:Anura county:&#34;Chambers&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Necturus beyeri alabama" ; Times: 1
+	Query: "order:Caudata county:&#34;Sumter&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "order:Caudata county:&#34;Dallas&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Amphiuma stateprovince:&#34;LOuisiana&#34;" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "Lithobates sphenocephalus jasper missouri" ; Times: 2
+	Query: "Okaloosa County farancia" ; Times: 1
+	Query: "Lithobates sphenocephalus cherokee" ; Times: 1
+	Query: "order:Caudata county:&#34;Perry&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "16892" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "peltifer" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "order:Squamata county:&#34;Bullock&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "order:Anura county:&#34;Dallas&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "25093" ; Times: 1
+	Query: "genus:Macrochelys county:&#34;Hamilton&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "order:Caudata county:&#34;Russell&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 2
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "genus:Kinosternon institutioncode:AUM" ; Times: 1
+	Query: "ophisaurus mimicus" ; Times: 1
+	Query: "genus:Plethodon specificepithet:websteri" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;mississippi&#34;" ; Times: 2
+	Query: "genus:gambelia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "order:Testudines county:&#34;Elmore&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "class:amphibia county:&#34;laurens&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "order:Caudata county:&#34;Randolph&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;Florida&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Necturus mounti" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "specificepithet:peltifer genus:Sternotherus stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "31631" ; Times: 1
+	Query: "genus:apalone county:&#34;walton&#34;" ; Times: 3
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "order:Testudines county:&#34;Bullock&#34; stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "order:Testudines county:&#34;Chilton&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "16952" ; Times: 1
+	Query: "specificepithet:depressus genus:Sternotherus stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "institutioncode:AUM 6115" ; Times: 1
+	Query: "pituophis ruthveni" ; Times: 2
+	Query: "order:Caudata county:&#34;Chambers&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "county:&#34;laurens&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "order:Testudines county:&#34;Barbour&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "order:Testudines county:&#34;Sumter&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "order:Testudines county:&#34;Tallapoosa&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "horseshoe c" ; Times: 1
+	Query: "order:Anura county:&#34;Randolph&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "class:reptilia county:&#34;marshall&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "genus:boa stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "genus:Farancia county:&#34;Walton&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "order:Caudata county:&#34;Bullock&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "order:Testudines county:&#34;Russell&#34; stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "genus:desmognathus catalognumber:23805" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 976 download events in this period)
+Total number of records downloaded: 6149
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "indotyphlops braminus" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+	Query: "micrurus tener" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+
+
+End of report.
