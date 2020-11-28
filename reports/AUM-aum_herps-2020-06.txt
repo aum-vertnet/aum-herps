@@ -1,0 +1,110 @@
+Report for Institution Code AUM, Resource aum_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 544
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-09 ; Times: 5
+	Date: 2020-06-02 ; Times: 12
+	Date: 2020-06-10 ; Times: 6
+	Date: 2020-06-01 ; Times: 22
+	Date: 2020-06-11 ; Times: 1
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Siren institutioncode:AUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "genus:Anniella county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 7
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; institutioncode:AUM" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "genus:Pseudemys stateprovince:&#34;Louisiana&#34; institutioncode:AUM" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 6
+	Query: "genus:Anolis locality:Bimini country:&#34;Bahamas&#34;" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Diadophis county:&#34;Pickens&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Lithobates heckscheri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 474 download events in this period)
+Total number of records downloaded: 1221
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Pseudemys stateprovince:&#34;Louisiana&#34; institutioncode:AUM" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+
+
+End of report.
