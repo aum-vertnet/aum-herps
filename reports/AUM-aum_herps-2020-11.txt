@@ -1,0 +1,205 @@
+Report for Institution Code AUM, Resource aum_herps
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 223
+Number of records retrieved in searches: 709
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 188
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 15
+	Date: 2020-11-21 ; Times: 11
+	Date: 2020-11-22 ; Times: 38
+	Date: 2020-11-23 ; Times: 23
+	Date: 2020-11-24 ; Times: 5
+	Date: 2020-11-25 ; Times: 3
+	Date: 2020-11-26 ; Times: 2
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-07 ; Times: 5
+	Date: 2020-11-04 ; Times: 5
+	Date: 2020-11-05 ; Times: 6
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-28 ; Times: 8
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-19 ; Times: 14
+	Date: 2020-11-18 ; Times: 21
+	Date: 2020-11-30 ; Times: 3
+	Date: 2020-11-15 ; Times: 4
+	Date: 2020-11-14 ; Times: 3
+	Date: 2020-11-17 ; Times: 17
+	Date: 2020-11-16 ; Times: 12
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-10 ; Times: 4
+	Date: 2020-11-12 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "30186" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "scientificname:Lithobates berlandieri" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "32554" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "scientificname:Anaxyrus compactilis" ; Times: 2
+	Query: "22086" ; Times: 1
+	Query: "family:bufonidae county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "37865" ; Times: 1
+	Query: "Ambystoma talpoideum county:&#34;charleston&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "annulatum" ; Times: 1
+	Query: "class:amphibia county:&#34;menifee&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Regina stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Incilius nebulifer" ; Times: 4
+	Query: "specificepithet:gaigeae family:Emydidae county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eurycea wallacei" ; Times: 3
+	Query: "scientificname:Incilius nebulifer" ; Times: 1
+	Query: "15255" ; Times: 1
+	Query: "28568" ; Times: 1
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "scientificname:Anaxyrus debilis" ; Times: 2
+	Query: "Glyptemys insculpta." ; Times: 4
+	Query: "genus:Chrysemys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Ambystoma talpoideum stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:Hyla arenicolor" ; Times: 2
+	Query: "scientificname:Anaxyrus punctatus" ; Times: 1
+	Query: "Okaloosa county mugitus" ; Times: 1
+	Query: "35575" ; Times: 1
+	Query: "L. Koch" ; Times: 1
+	Query: "genus:siren county:&#34;escambia&#34;" ; Times: 1
+	Query: "specificepithet:gaigeae family:Emydidae class:Reptilia county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "20507" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "scientificname:Hypopachus variolosus" ; Times: 2
+	Query: "necturus beyeri" ; Times: 1
+	Query: "specificepithet:ouachitensis genus:Graptemys stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "Apalone spinifera stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:rhadinaea stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "13603" ; Times: 1
+	Query: "graptemys pulchra mississippi" ; Times: 1
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "brookwood" ; Times: 1
+	Query: "genus:Trachemys family:Emydidae county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Santa Rosa county erytrogramma" ; Times: 1
+	Query: "specificepithet:carolinensis genus:gastrophryne stateprovince:&#34;TENNESSEE&#34;" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 114
+	Query: "scientificname:Scaphiopus couchii" ; Times: 2
+	Query: "glyptemys insculpta" ; Times: 5
+	Query: "Spea intermontana stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:gaigeae county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma bishopi" ; Times: 3
+	Query: "Santa Rosa county pituophis" ; Times: 1
+	Query: "genus:ambystoma county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:debilis family:bufonidae county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "siren reticulata" ; Times: 2
+	Query: "specificepithet:pseudogeographica genus:Graptemys stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "specificepithet:platyurus genus:Hemidactylus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "genus:siren county:&#34;baldwin&#34;" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Ambystoma tigrinum stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "sternotherus depressus" ; Times: 2
+	Query: "Santa Rosa county mugitus" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Hemidactylium stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Powell&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Elgaria coerulea stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "scientificname:Anaxyrus cognatus" ; Times: 4
+	Query: "Anolis aquaticus" ; Times: 5
+	Query: "recordedby:House" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 842 download events in this period)
+Total number of records downloaded: 6895
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 72
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 4
+	Date: 2020-11-21 ; Times: 5
+	Date: 2020-11-22 ; Times: 8
+	Date: 2020-11-05 ; Times: 3
+	Date: 2020-11-19 ; Times: 9
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-26 ; Times: 10
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-15 ; Times: 2
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 4
+	Date: 2020-11-16 ; Times: 8
+	Date: 2020-11-11 ; Times: 3
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-12 ; Times: 2
+	Date: 2020-11-23 ; Times: 6
+	Date: 2020-11-29 ; Times: 3
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-17 ; Times: 4
+	Date: 2020-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:trachemys hassex:1" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Desmognathus carolinensis" ; Times: 2
+	Query: "Elgaria coerulea stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 2
+	Query: "Heterodon platirhinos stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "eublepharidae" ; Times: 1
+	Query: "Anaxyrus americanus americanus" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Desmognathus ocoee" ; Times: 2
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "specificepithet:platyurus genus:Hemidactylus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Thamnophis proximus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 2
+	Query: "crotalus viridis" ; Times: 2
+	Query: "Desmognathus orestes" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 4
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 34
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "chrysoscelis" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "distance(location,geopoint(9.881118228298257,-83.58181374875574))&lt;7696.4057758114195" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 5
+
+
+End of report.
